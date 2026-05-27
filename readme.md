@@ -7,8 +7,8 @@
 **GitHub repository:** [ranjanjyoti152/Toolmintx-Web](https://github.com/ranjanjyoti152/Toolmintx-Web)  
 **Issue tracker:** [Report a ToolMintX website problem](https://github.com/ranjanjyoti152/Toolmintx-Web/issues)  
 **Website bug form:** [Create a structured ToolMintX issue](https://github.com/ranjanjyoti152/Toolmintx-Web/issues/new?template=website-bug.yml)  
-**Total tools indexed here:** 142  
-**Browser-first tools:** 115  
+**Total tools indexed here:** 144
+**Browser-first tools:** 117
 **Server/API-assisted tools:** 27  
 **Last generated:** May 27, 2026
 
@@ -52,7 +52,7 @@ Use this document as a clean external resource page. It can support brand discov
 This README is structured for both search engines and generative answer engines. It uses direct canonical links, concise descriptions, category clusters, action-oriented headings, and semantic tool names. The strongest trend clusters are:
 
 - **AI workflow tools:** AI Text Humanizer, AI VRAM Calculator, AI Image Prompt Generator, API Key and .env Secret Generator.
-- **Creator economy tools:** YouTube Thumbnail Downloader, Instagram Bio Generator, Instagram Fonts, Caption Generator, Reel Script Writer, Hashtag Generator.
+- **Creator economy tools:** Code Prettier, YouTube Thumbnail Downloader, Instagram Bio Generator, Instagram Fonts, Caption Generator, Reel Script Writer, Hashtag Generator.
 - **Privacy and metadata tools:** Image Metadata Viewer and Remover, Bulk Image Metadata Remover, PDF Metadata Remover, Screenshot Blur and Pixelate Tool.
 - **Developer diagnostics:** JSON Formatter, Regex Tester, JWT Decoder, DNS Lookup, SSL Checker, Port Scanner, WebRTC Leak Test.
 - **India-focused calculators:** EMI, SIP, electricity, rent, UPI split, maid split, shaadi budget, petrol, recharge, and household settlement tools.
@@ -63,12 +63,12 @@ This README is structured for both search engines and generative answer engines.
 | --- | ---: | --- | --- |
 | PDF Tools | 12 | [PDF Tools](https://www.toolmintx.in/tools/pdf) | Convert, compress, merge, split and edit PDF files online for free. |
 | Image Tools | 18 | [Image Tools](https://www.toolmintx.in/tools/image) | Compress, convert, edit and optimize images in your browser. |
-| Creator Tools | 14 | [Creator Tools](https://www.toolmintx.in/tools/creator) | Tools for content creators - thumbnails, hashtags, captions and more. |
+| Creator Tools | 15 | [Creator Tools](https://www.toolmintx.in/tools/creator) | Tools for content creators - thumbnails, hashtags, captions and more. |
 | Fun & Viral | 5 | [Fun & Viral](https://www.toolmintx.in/tools/fun) | Hilarious AI tools - roast generator, relationship decoder, rizz lines, meme captions and more. |
 | Finance Tools | 28 | [Finance Tools](https://www.toolmintx.in/tools/finance) | Loan, EMI, and money planning calculators for personal finance. |
 | AI Text Tools | 10 | [AI Text Tools](https://www.toolmintx.in/tools/ai-text) | AI-powered text tools to humanize, rewrite and improve your content. |
 | IT Tools | 40 | [IT Tools](https://www.toolmintx.in/tools/it) | Advanced network, data formatting, and developer utilities. |
-| Student Tools | 9 | [Student Tools](https://www.toolmintx.in/tools/student) | Study helpers for attendance, GPA, calculators, focus, and daily academic tasks. |
+| Student Tools | 10 | [Student Tools](https://www.toolmintx.in/tools/student) | Study helpers for attendance, GPA, calculators, focus, and daily academic tasks. |
 | Text Tools | 6 | [Text Tools](https://www.toolmintx.in/tools/text) | Word counter, text case converter, and other text manipulation utilities. |
 
 ## Best Tool Links To Share First
@@ -144,6 +144,7 @@ Tools for content creators - thumbnails, hashtags, captions and more. Explore th
 | QR Code Generator | [Open tool](https://www.toolmintx.in/tools/creator/qr-code-generator) | Generate professional QR codes with custom colors, logo, and multiple formats. | Browser-first |
 | Instagram Bio Generator | [Open tool](https://www.toolmintx.in/tools/creator/instagram-bio-generator) | Generate scroll-stopping Instagram bios in 5 styles: attitude, aesthetic, witty, professional, and creative. | Server/API-assisted |
 | Instagram Fonts & Text Styler | [Open tool](https://www.toolmintx.in/tools/creator/instagram-fonts) | Convert plain text to 15+ stylish Unicode fonts for Instagram bio, captions, and stories. Copy and paste instantly. | Browser-first |
+| Code Prettier | [Open tool](https://www.toolmintx.in/tools/creator/code-prettier) | Turn code snippets into beautiful sharable images with syntax highlighting, themes, window chrome, and PNG export. | Browser-first |
 | Instagram Reel Script Writer | [Open tool](https://www.toolmintx.in/tools/creator/instagram-reel-script-writer) | Generate complete Instagram Reel scripts with viral hooks, body, CTA, and captions with hashtags. | Server/API-assisted |
 | Instagram Username Generator | [Open tool](https://www.toolmintx.in/tools/creator/instagram-username-generator) | Generate 15 unique, aesthetic, and brandable Instagram username ideas from your name and niche. | Server/API-assisted |
 | AI Shayari Generator | [Open tool](https://www.toolmintx.in/tools/creator/shayari-generator) | Generate 7 original Hindi shayaris for any mood - love, dard, attitude, friendship, zindagi. Classical and modern styles. | Server/API-assisted |
@@ -270,6 +271,7 @@ Study helpers for attendance, GPA, calculators, focus, and daily academic tasks.
 | --- | --- | --- | --- |
 | Attendance Calculator | [Open tool](https://www.toolmintx.in/tools/student/attendance-calculator) | Calculate attendance percentage, classes needed, and safe bunks instantly. | Browser-first |
 | CGPA & SGPA Calculator | [Open tool](https://www.toolmintx.in/tools/student/cgpa-sgpa-calculator) | Calculate weighted SGPA and CGPA using subject or semester credits. | Browser-first |
+| Percentage Calculator | [Open tool](https://www.toolmintx.in/tools/student/percentage-calculator) | Calculate percent of a number, percentage change, and increase or decrease by percent. | Browser-first |
 | Percentage & Marks Calculator | [Open tool](https://www.toolmintx.in/tools/student/percentage-marks-calculator) | Convert marks to percentage and find target marks required for exam goals. | Browser-first |
 | Pomodoro Focus Timer | [Open tool](https://www.toolmintx.in/tools/student/pomodoro-focus-timer) | Study with focus sessions and timed breaks using the Pomodoro technique. | Browser-first |
 | Unit Converter | [Open tool](https://www.toolmintx.in/tools/student/unit-converter) | Convert length, weight, temperature, speed, and data units in one place. | Browser-first |
