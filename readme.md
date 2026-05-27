@@ -6,6 +6,7 @@
 **Canonical tools hub:** [https://www.toolmintx.in/tools](https://www.toolmintx.in/tools)  
 **GitHub repository:** [ranjanjyoti152/Toolmintx-Web](https://github.com/ranjanjyoti152/Toolmintx-Web)  
 **Issue tracker:** [Report a ToolMintX website problem](https://github.com/ranjanjyoti152/Toolmintx-Web/issues)  
+**Website bug form:** [Create a structured ToolMintX issue](https://github.com/ranjanjyoti152/Toolmintx-Web/issues/new?template=website-bug.yml)  
 **Total tools indexed here:** 142  
 **Browser-first tools:** 115  
 **Server/API-assisted tools:** 27  
@@ -21,7 +22,7 @@ This README is designed to be uploaded as an external repository README for back
 
 If you find a broken tool, wrong calculation, download problem, mobile layout issue, accessibility problem, outdated content, privacy concern, or any website bug, open a public issue here:
 
-- [Create a ToolMintX website issue](https://github.com/ranjanjyoti152/Toolmintx-Web/issues/new)
+- [Create a ToolMintX website issue](https://github.com/ranjanjyoti152/Toolmintx-Web/issues/new?template=website-bug.yml)
 - [View existing ToolMintX issues](https://github.com/ranjanjyoti152/Toolmintx-Web/issues)
 
 Useful issue reports include the page URL, browser name, device type, steps to reproduce, expected result, actual result, and screenshots when safe to share. Do not post passwords, API keys, private files, bank details, medical data, or confidential documents in public GitHub issues.
@@ -42,7 +43,7 @@ Use this document as a clean external resource page. It can support brand discov
 2. Keep the title close to `ToolMintX Free Online Tools Directory`.
 3. Add GitHub topics such as `online-tools`, `pdf-tools`, `image-tools`, `developer-tools`, `ai-tools`, `student-tools`, `finance-calculators`, `privacy-tools`, `creator-tools`, and `toolmintx`.
 4. Link the repository description to `https://www.toolmintx.in/tools`.
-5. Enable GitHub Issues and link issue reports to `https://github.com/ranjanjyoti152/Toolmintx-Web/issues`.
+5. Enable GitHub Issues and link issue reports to `https://github.com/ranjanjyoti152/Toolmintx-Web/issues/new?template=website-bug.yml`.
 6. Use category links when posting in niche communities and tool directories; use individual tool links for targeted tutorials.
 7. Keep anchor text natural: use the tool name, problem solved, or category name instead of repeating exact-match keywords everywhere.
 
