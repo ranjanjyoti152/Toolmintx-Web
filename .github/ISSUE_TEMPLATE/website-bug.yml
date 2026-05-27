@@ -1,0 +1,72 @@
+name: Website problem
+description: Report a ToolMintX website bug, broken tool, layout issue, or incorrect result.
+title: "[Website problem]: "
+labels:
+  - website
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve ToolMintX. Please do not post passwords, API keys, private documents, bank details, medical data, or confidential files in this public issue.
+  - type: input
+    id: page-url
+    attributes:
+      label: Page URL
+      description: Paste the ToolMintX page where the problem happened.
+      placeholder: https://www.toolmintx.in/tools/...
+    validations:
+      required: true
+  - type: dropdown
+    id: problem-type
+    attributes:
+      label: Problem type
+      options:
+        - Broken tool or button
+        - Wrong result or calculation
+        - Download or export problem
+        - Mobile layout problem
+        - Accessibility problem
+        - Outdated or unclear content
+        - Privacy or safety concern
+        - Other website issue
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the exact steps that show the problem.
+      placeholder: |
+        1. Open ...
+        2. Enter/select ...
+        3. Click ...
+        4. See ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What should have happened?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: What actually happened? Include any visible non-sensitive error message.
+    validations:
+      required: true
+  - type: input
+    id: browser-device
+    attributes:
+      label: Browser and device
+      placeholder: Chrome 126 on Android, Safari on iPhone, Edge on Windows, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Extra context
+      description: Add screenshots or details only when they are safe to share publicly.
