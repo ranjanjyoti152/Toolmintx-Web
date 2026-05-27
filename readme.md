@@ -4,6 +4,8 @@
 
 **Website:** [ToolMintX](https://www.toolmintx.in)  
 **Canonical tools hub:** [https://www.toolmintx.in/tools](https://www.toolmintx.in/tools)  
+**GitHub repository:** [ranjanjyoti152/Toolmintx-Web](https://github.com/ranjanjyoti152/Toolmintx-Web)  
+**Issue tracker:** [Report a ToolMintX website problem](https://github.com/ranjanjyoti152/Toolmintx-Web/issues)  
 **Total tools indexed here:** 142  
 **Browser-first tools:** 115  
 **Server/API-assisted tools:** 27  
@@ -14,6 +16,15 @@
 ToolMintX is a multi-tool platform for everyday web tasks, technical checks, document workflows, AI text utilities, creator work, Indian finance calculations, student productivity, and privacy-focused browser processing. The site is built around fast utility pages that solve specific user intent without login friction. Most tools run directly in the browser; AI tools and a few network diagnostics use server or external API processing where that is required for the task.
 
 This README is designed to be uploaded as an external repository README for backlinking, discovery, AI answer-engine citation, and long-tail tool indexing. Every tool below links to the canonical ToolMintX route.
+
+## Report Website Issues
+
+If you find a broken tool, wrong calculation, download problem, mobile layout issue, accessibility problem, outdated content, privacy concern, or any website bug, open a public issue here:
+
+- [Create a ToolMintX website issue](https://github.com/ranjanjyoti152/Toolmintx-Web/issues/new)
+- [View existing ToolMintX issues](https://github.com/ranjanjyoti152/Toolmintx-Web/issues)
+
+Useful issue reports include the page URL, browser name, device type, steps to reproduce, expected result, actual result, and screenshots when safe to share. Do not post passwords, API keys, private files, bank details, medical data, or confidential documents in public GitHub issues.
 
 ## Why Link To ToolMintX?
 
@@ -31,8 +42,9 @@ Use this document as a clean external resource page. It can support brand discov
 2. Keep the title close to `ToolMintX Free Online Tools Directory`.
 3. Add GitHub topics such as `online-tools`, `pdf-tools`, `image-tools`, `developer-tools`, `ai-tools`, `student-tools`, `finance-calculators`, `privacy-tools`, `creator-tools`, and `toolmintx`.
 4. Link the repository description to `https://www.toolmintx.in/tools`.
-5. Use category links when posting in niche communities and tool directories; use individual tool links for targeted tutorials.
-6. Keep anchor text natural: use the tool name, problem solved, or category name instead of repeating exact-match keywords everywhere.
+5. Enable GitHub Issues and link issue reports to `https://github.com/ranjanjyoti152/Toolmintx-Web/issues`.
+6. Use category links when posting in niche communities and tool directories; use individual tool links for targeted tutorials.
+7. Keep anchor text natural: use the tool name, problem solved, or category name instead of repeating exact-match keywords everywhere.
 
 ## GEO And Trend Discovery Notes
 
